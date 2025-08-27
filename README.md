@@ -1,6 +1,6 @@
-Pasos para descargar mi repositorio
 
-# Primeros Pasos
+## Pasos para descargar mi repositorio
+
 1. Clic en la parte superior donde dice "Code"
 2. Descargar como Zip
 3. Ir a descargas
